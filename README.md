@@ -10,7 +10,7 @@ Run the tests for the OddEven module. Notice it isn't passing the tests.
 Change the CODE to pass the TESTS. Do not change the tests!
 
 
-## Write and Test a Module
+## Write and Test a Module 
 
 Pick one of the whiteboard questions from last week (we would not recommend the Prime number one) and implement it in javascript inside a module. 
 
@@ -27,8 +27,8 @@ Something like this:
 
 ```javascript
 return {
-  odd: 4,
-  even: 1
+  oddCount: 4,
+  evenCount: 1
 };
 ```
 
