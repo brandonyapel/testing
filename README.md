@@ -21,7 +21,7 @@ Write unit tests for this module. It's best practice to start with the tests but
 
 Copy the oddEven module into a new module called `howManyEvenAndOdd`. 
 
-Change the function to take in an array of numbers. The functin should return an object with the counts of odd and even numbers in the array.
+Change the function to take in an array of numbers. The function should return an object with the counts of odd and even numbers in the array.
 
 Something like this:
 
