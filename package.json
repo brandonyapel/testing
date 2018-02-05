@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-activity",
+  "version": "1.0.0",
+  "description": "Chai API/Docs: [http://chaijs.com/api/](http://chaijs.com/api/)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
