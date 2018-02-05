@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const addOne = require('./modules/addOne');
 
-
-app.listen(5000);
+app.listen(5000, function() {
+    console.log('The server is not needed. Run $ mocha /path/to/test instead.');
+});
