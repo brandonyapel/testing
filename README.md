@@ -3,8 +3,6 @@
 Using `mocha` and `chai` as we did in lecture, you're going to practice both writing tests and fixing code to match unit tests.
 
 
-
-
 ## Fix OddEven Module to Pass Tests
 
 Run the tests for the OddEven module. Notice it isn't passing the tests. 
@@ -30,6 +28,11 @@ Pick one of these functions from last week and implement it in javascript inside
 
 ## Hard Mode
 
+Now do the other one :)
+
+
+## Pro Mode
+
 Copy the `oddEven` module into a new module called `howManyEvenAndOdd`. 
 
 Change the function to take in an array of numbers. The function should return an object with the counts of odd and even numbers in the array.
@@ -44,6 +47,3 @@ return {
 ```
 
 Write unit tests for this new module. 
-
-
-## Pro Mode
