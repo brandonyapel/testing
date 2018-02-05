@@ -2,7 +2,7 @@
 
 Using `mocha` and `chai` as we did in lecture, you're going to practice both writing tests and fixing code to match unit tests.
 
-[- Mocha Docs](https://mochajs.org/#getting-started)
+- [Mocha Docs](https://mochajs.org/#getting-started)
 - [Chai Docs](http://chaijs.com/api/)
 
 ## Fix OddEven Module to Pass Tests
