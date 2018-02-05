@@ -14,7 +14,7 @@ Change the `CODE` to pass the `TESTS`. Do not change the tests for this base par
 Can you think of any other tests this unit should have? If so, try writing them.
 
 
-## Write and Test a Module
+## Write and Test a Module 
 
 Pick one of these functions from last week and implement it in javascript inside of a module. Write unit tests for this module. It's best practice to start with the tests but you can do it either way.
 
@@ -38,8 +38,8 @@ Something like this:
 
 ```javascript
 return {
-  odd: 4,
-  even: 1
+  oddCount: 4,
+  evenCount: 1
 };
 ```
 
